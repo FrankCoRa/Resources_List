@@ -1,4 +1,3 @@
 pandas
 panel
-plotly.express
-os
+plotly
