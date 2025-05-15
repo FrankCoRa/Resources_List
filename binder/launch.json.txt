@@ -1,0 +1,4 @@
+{
+  "argv": ["panel", "serve", "Room_Explorer.ipynb", "--show", "--autoreload"],
+  "disable_interrupt": true
+}
