@@ -1,4 +1,5 @@
-pandas
 panel
+jupyterlab
+jupyter-server-proxy
 plotly
-
+pandas
