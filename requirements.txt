@@ -1,5 +1,3 @@
-panel>=1.3.6
 pandas
+panel
 plotly
-jupyterlab
-jupyter-server-proxy
